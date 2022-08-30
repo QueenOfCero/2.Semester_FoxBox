@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{874391C1-34C1-1F9A-B673-25BBAF0880FA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Easy 2D Player Movement/Scripts/MovementManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Collectibles/MainCollectibles.cs" Line="41" Column="11" />
+      <File FileName="Assets/Scripts/Collectibles/CollectiblesDragon.cs" />
+      <File FileName="Assets/Scripts/Collectibles/CollectiblesBear.cs" />
+      <File FileName="Assets/Scripts/Collectibles/CollectiblesRobin.cs" />
+      <File FileName="Assets/Scripts/Collectibles/CollectiblesSnake.cs" />
+      <File FileName="Assets/OutroCounter.cs" />
+      <File FileName="Assets/Scripts/Easy 2D Player Movement/Scripts/MovementManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a1338d41-0700-468b-9274-54e52b656bb3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/MainMenu.unity
+    guid: f232eb1630e144374b2347c17b19ce73
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/OptionsMenu.unity
+    guid: 7fc4ddf64f79ffa458e2a535583b5e92
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/CreditsScene.unity
+    guid: d35ce1da6e2279c439fbc34805a34b1b
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/AlbumScene.unity
+    guid: 7d297d1f6cdea8843a0a881ad19c936d
+  - enabled: 1
+    path: Assets/Scenes/Biome A/LevelA1.unity
+    guid: 6b1508b5a65fd644e96863122327828d
+  - enabled: 1
+    path: Assets/Scenes/Biome A/LevelA2.unity
+    guid: 66e167b691f371042a9352c2cfc7ad75
+  - enabled: 1
+    path: Assets/Scenes/Biome A/LevelA3.unity
+    guid: 316a1577970a0cf419edb4c410e01183
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/Album2Scene.unity
+    guid: 3010256cbc275344f80fc2e41e2621f8
+  - enabled: 1
+    path: Assets/Scenes/Biome A/LevelA4.unity
+    guid: 43c18d1a4ac586a4d9386cfe5cc66fc9
+  - enabled: 1
+    path: Assets/Scenes/UI Scenes/ControlsMenu.unity
+    guid: 9a07ad45b4d0bec45b35f0e0294dd61d
+  m_configObjects: {}

@@ -1,0 +1,36 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
+public class MainMenu : MonoBehaviour
+{
+    public GameObject levelSelection;
+
+
+    public void GoToSampleScene()
+    {
+        SceneManager.LoadScene("BaseLevel");
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
+
+    public void LevelSelect()
+    {
+        levelSelection.SetActive(true);
+    }
+
+    public void LevelSelectBack()
+    {
+        levelSelection.SetActive(false);
+    }
+
+    public void Fullscreen(bool is_fullscene)
+    {
+        Screen.fullScreen = is_fullscene;
+    }
+}
